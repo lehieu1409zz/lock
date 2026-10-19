@@ -262,9 +262,9 @@ if (ua.includes("Locket")) {
                     overlay_id: "caption:lehieu",
                     source: "remote",
                     caption: {
-                        background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"], },
+                        background: { colors: ["#FF00FF", "#A8F5D0", "#DCCBFF"], },
                         max_lines: 1,
-                        text: "hà buồi🖕",
+                        text: "tui bi ngu😘",
                         text_color: "#183153",
                         type: "static_content",
                     },
