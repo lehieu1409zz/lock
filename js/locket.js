@@ -335,7 +335,7 @@ if (ua.includes("Locket")) {
                     overlay_id: "caption:snake_vibes",
                     source: "remote",
                     caption: {
-                        background: { colors: ["#FF007F"] },
+                        background: { colors: ["#FF003C" , "#FFFF00"] },
                         icon: { data: "💥", type: "emoji" },
                         max_lines: 1,
                         text: "lổ r các cháu ơi",
